@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
