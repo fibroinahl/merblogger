@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add HUB-SDK docs (#7775)
