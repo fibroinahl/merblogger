@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix OpenVINO links (#7930)
